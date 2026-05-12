@@ -1,0 +1,15 @@
+export default function Home() {
+  return (
+    <main style={{ padding: "40px", fontFamily: "Arial" }}>
+      <h1>Havelya</h1>
+      <p>
+        Where you’re safe to talk, feel, and belong — without judgment.
+      </p>
+
+      <p>
+        Havelya is a calm, protected space designed for honest conversation
+        and emotional safety.
+      </p>
+    </main>
+  );
+}
